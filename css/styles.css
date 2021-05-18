@@ -1,0 +1,139 @@
+@media screen and (max-width:400px){
+
+.code-container{
+
+  margin-left:20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+div .description-container{
+  text-align:center;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom: 20px;
+}
+
+div .offer{
+  margin:20px;
+  height: 70px;
+
+}
+
+div .offer-text{
+  padding-left:50px;
+  padding-right:50px;
+}
+
+div .free-trial-btn{
+  margin-left:20px;
+  margin-right: 20px;
+}
+
+div .sign-up{
+  margin:20px;
+}
+
+div .terms{
+  margin-left:20px;
+  margin-right: 20px;
+}
+
+}
+
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background: url("../images/bg-intro-desktop.png") no-repeat, hsl(0, 100%, 74%);
+}
+
+h1{
+  font-weight: 700;
+}
+.description-container{
+  margin: 50px;
+  margin-top: 130px;
+  margin-left:100px;
+  color: #fff;
+}
+
+.description-text{
+  padding-top: 20px;
+}
+
+
+.offer{
+  background-color: hsl(248, 32%, 49%);
+  border-radius: 6px;
+  box-shadow: 0 5px hsla(249, 10%, 26%, 0.3)  ;
+  color:#fff;
+  margin: 50px;
+  margin-bottom: 20px;
+  margin-right:80px;
+  text-align: center;
+  height: 40px;
+  font-size: 16px;
+
+}
+
+.offer-text{
+  padding-top: 5px;
+}
+
+.offer-text-em{
+  font-weight: bold;
+}
+
+.free-trial-btn{
+  background-color: hsl(154, 59%, 51%);
+  border-radius: 6px;
+  box-shadow: 0 5px hsla(249, 10%, 26%, 0.3)  ;
+  margin-top: 20px;
+  width: 85%;
+  border: 1px;
+  font-size: 14px;
+  height: 40px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.sign-up{
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 5px hsla(249, 10%, 26%, 0.3)  ;
+  margin: 50px;
+  margin-right: 80px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.free-trial-input{
+  width:85%;
+  margin-top:20px;
+}
+
+.error-input{
+  border: hsl(0, 100%, 74%) solid 1px;
+
+}
+
+.error-text{
+  margin-bottom:0;
+  font-size: 12px;
+  text-align: right;
+  color:hsl(0, 100%, 74%);
+  margin-right:40px;
+}
+
+.terms{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 10px;
+  color:hsl(246, 25%, 77%);
+  padding-bottom: 20px;
+}
+
+.tandc{
+  color: hsl(0, 100%, 74%);
+}
